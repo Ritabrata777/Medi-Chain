@@ -159,4 +159,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *MediChain - Where AI meets Healthcare, powered by Blockchain*# Medi-Chain
 
-⌢䴠摥⵩桃楡≮ഠ∊‣敍楤䌭慨湩•਍⌢䴠摥⵩桃楡≮ഠ�
